@@ -78,14 +78,3 @@ Flutter, Dart, Selenium WebDriver
 📧 Email: kyleyambaoliwanag@gmail.com  
 💻 GitHub: https://github.com/Elykaboo  
 🔗 LinkedIn: https://www.linkedin.com/in/kyle-adrian-yambao-liwanag-b96371339  
-
----
-
-## 🎯 Career Goals
-
-- Become a QA Engineer specializing in automation testing  
-- Improve expertise in Selenium WebDriver and Playwright  
-- Contribute to real-world software projects  
-- Continuously improve development and testing skills  
-
----
